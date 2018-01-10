@@ -1,0 +1,2 @@
+# Stacks
+Using a singly linked list stack, this program will receive an input in the form of a postfix and  return an output in the form of an infix. Has several checks for errors to ensure proper output such as too many operators, too many operands, not a proper input, empty strings, single strings, and allows for spaces.  The program is split into 3 files: A header file, a cpp file for the functions of call_class, and the test driver.
